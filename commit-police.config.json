@@ -1,0 +1,6 @@
+{
+  "types": ["feat", "fix"],
+  "requireScope": true,
+  "requireTicket": true,
+  "ticketPattern": "PROJ-[0-9]+"
+}

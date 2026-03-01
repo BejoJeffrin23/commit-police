@@ -1,0 +1,10 @@
+{
+  "name": "@bejo23/commit-police",
+  "version": "1.0.2",
+  "description": "Zero-config commit message validator",
+  "type": "module",
+  "bin": {
+    "commit-police": "./index.js"
+  },
+  "license": "MIT"
+}
